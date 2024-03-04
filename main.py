@@ -12,6 +12,7 @@ for question in question_data:
 
 
 
+
 quiz = QuizBrain(question_bank)
 
 quiz_ui = QuizInterface(quiz)
